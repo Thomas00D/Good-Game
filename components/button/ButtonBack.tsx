@@ -1,7 +1,7 @@
 'use client'
 
-import { IconArrowBack } from '@tabler/icons-react'
 import { useRouter } from 'next/navigation'
+import { IconArrowBack } from '@tabler/icons-react'
 
 export default function ButtonBack() {
   const router = useRouter()

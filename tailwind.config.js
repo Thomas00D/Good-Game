@@ -14,6 +14,8 @@ module.exports = {
         colorsButton: "#E6AF2E",
         textLigth: "#F0F0F0",  
         textBlack : "#0A0A0A",
+        gradientStart: '#45B0ED',
+        gradientEnd: '#5BCBE9',
 
         borderPastille: "#E6AF2E",
         Language: "#0A0A0A",

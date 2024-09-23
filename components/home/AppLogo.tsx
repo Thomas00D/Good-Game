@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import logoApp from '@/app/assets/image/logoApp.png'
 
-export default function AppLogo  ()  {
+export default function AppLogo() {
   return (
     <Image
       src={logoApp}
